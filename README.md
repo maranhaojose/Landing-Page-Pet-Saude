@@ -2,7 +2,7 @@
 ## Autor
 José Maranhão Da Silva Neto
 
-# PET-Saúde - Informação para Ação
+## PET-Saúde - Informação para Ação
 Landing page desenvolvida para apresentação do projeto PET-Saúde Digital, com foco na comunicação entre UBS e população e na gestão de dados em saúde.
 
 ## Tecnologias Utilizadas
