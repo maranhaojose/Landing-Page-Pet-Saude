@@ -14,6 +14,6 @@ Landing page desenvolvida para apresentação do projeto PET-Saúde Digital, com
 2. Abra o arquivo index.html em qualquer navegador
 
 ## Considerações
-Tive dificuldade em desenvolver uma página mais moderna e responsiva, pela falta de minha pouca experiência com desenvolvimento web.
+Tive dificuldade em desenvolver uma página mais moderna e responsiva, por conta da minha pouca experiência com desenvolvimento web.
 A parte de CSS foi a mais trabalhosa, exigiu mais tempo de ajustes, mas consegui organizar bem, seguindo boas práticas de codificação.
 
