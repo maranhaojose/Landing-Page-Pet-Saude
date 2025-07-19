@@ -17,3 +17,5 @@ Landing page desenvolvida para apresentação do projeto PET-Saúde Digital, com
 Tive dificuldade em desenvolver uma página mais moderna e responsiva, por conta da minha pouca experiência com desenvolvimento web.
 A parte de CSS foi a mais trabalhosa, exigiu mais tempo de ajustes, mas consegui organizar bem, seguindo boas práticas de codificação.
 
+acesse aqui:
+https://landing-page-pet-saude.vercel.app/
